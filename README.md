@@ -4,7 +4,7 @@
 [![Created Badge](https://badges.pufler.dev/created/on3dd/on3dd)](https://badges.pufler.dev)
 
 ## About me 🤡
-👨‍💻 My name is Artyom, I'm a Full stack developer from Vladivostok, Russia. 
+👨‍💻 My name is Artyom, I'm a 20 y.o. full stack developer from Vladivostok, Russia. 
 
 👷 Looking for an open source project that I can contribute to, preferably something related to React or TypeScript ecosystems.
 
