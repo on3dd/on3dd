@@ -3,45 +3,45 @@
 [![Repos Badge](https://badges.pufler.dev/repos/on3dd)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/on3dd/on3dd)](https://badges.pufler.dev)
 
-## About me 🤡
+### About me 🤡
 👨‍💻 My name is Artyom, I'm a 20 y.o. full stack developer from Vladivostok, Russia. 
 
 👷 Looking for an open source project that I can contribute to, preferably something related to React or TypeScript ecosystems.
 
 🎓 Studying at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science".
 
-## Technology stack 🔥
-### Languages
+### Technology stack 🔥
+#### Languages
 - JavaScript
 - TypeScript
 - ReasonML
 - Golang (previously)
 
-### Front-end
+#### Front-end
 - Vue | Nuxt.js
 - React | React Native | Next.js
 - Styled-components
 
-### Back-end
+#### Back-end
 - Node.js
 - Express | Koa
 
-### Common
+#### Common
 - Babel
 - Webpack
 
-### Databases
+#### Databases
 - MongoDB
 - PostgreSQL
 
-### Other
+#### Other
 - Docker
 - GraphQL
 - Websockets
 - Redis, RabbitMQ
 - CSR, SSR, Isomorphic
 
-## Interests ❤️
+### Interests ❤️
 - NoSQL
 - JavaScript
 - Open Source
@@ -51,7 +51,7 @@
   - ReasonML
   - Elm, Haskell
 
-## Github stats 📊
+### Github stats 📊
 ![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=on3dd&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=on3dd&layout=compact)](https://github.com/on3dd/github-readme-stats)
