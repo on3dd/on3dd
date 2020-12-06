@@ -14,7 +14,7 @@
 #### Languages
 - JavaScript
 - TypeScript
-- ReasonML
+- ReScript | ReasonML
 - Golang (previously)
 
 #### Front-end
@@ -48,7 +48,7 @@
 - Isomorphic applications
 - Functional programming, especially in:
   - JS & TS
-  - ReasonML
+  - ReasonML, Ocaml
   - Elm, Haskell
 
 ### Github stats 📊
