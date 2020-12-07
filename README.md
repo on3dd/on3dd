@@ -2,6 +2,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/on3dd/on3dd)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/on3dd)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/on3dd/on3dd)](https://badges.pufler.dev)
+[![Codewars Badge](https://www.codewars.com/users/on3dd/badges/micro)](https://www.codewars.com/users/on3dd)
 
 ### About me 🤡
 👨‍💻 My name is Artyom, I'm a 20 y.o. full stack developer from Vladivostok, Russia. 
