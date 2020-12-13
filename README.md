@@ -20,7 +20,7 @@
 
 #### Front-end
 - Vue | Nuxt.js
-- React | React Native | Next.j
+- React | React Native | Next.js
 - Styled-components
 - State management tools:
   - Vuex
