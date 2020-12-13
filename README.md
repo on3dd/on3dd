@@ -20,10 +20,12 @@
 
 #### Front-end
 - Vue | Nuxt.js
-- React | React Native | Next.js
-- Vuex | Redux | Mobx
+- React | React Native | Next.j
 - Styled-components
-
+- State management tools:
+  - Vuex
+  - Redux
+  - Mobx
 #### Back-end
 - Node.js
 - Express | Koa
