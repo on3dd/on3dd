@@ -20,6 +20,7 @@
 #### Front-end
 - Vue | Nuxt.js
 - React | React Native | Next.js
+- Vuex | Redux | Mobx
 - Styled-components
 
 #### Back-end
