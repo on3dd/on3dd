@@ -15,7 +15,6 @@
 #### Languages
 - JavaScript
 - TypeScript
-- ReScript | ReasonML
 - Golang (previously)
 
 #### Front-end
