@@ -52,8 +52,9 @@
 - Isomorphic applications
 - Functional programming, especially in:
   - JS & TS
-  - ReasonML, Ocaml
-  - Elm, Haskell
+  - F#, Fable
+  - Reason, Ocaml
+  - Elm, PureScript, Haskell
 
 ### Github stats 📊
 ![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=on3dd&count_private=true)
