@@ -58,4 +58,4 @@
 ### Github stats 📊
 ![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=on3dd&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=on3dd&layout=compact)](https://github.com/on3dd/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=on3dd&layout=compact)
