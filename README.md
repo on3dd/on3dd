@@ -7,8 +7,6 @@
 ### About me 🤡
 👨‍💻 My name is Artyom, I'm a 20 y.o. full stack developer from Vladivostok, Russia. 
 
-👷 Looking for an open source project that I can contribute to, preferably something related to React or TypeScript ecosystems.
-
 🎓 Studying at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science".
 
 ### Technology stack 🔥
