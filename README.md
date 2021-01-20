@@ -31,13 +31,16 @@
 - Babel
 - Webpack
 
+#### API
+- REST
+- GraphQL
+
 #### Databases
 - MongoDB
 - PostgreSQL
 
 #### Other
 - Docker
-- GraphQL
 - Websockets
 - Redis, RabbitMQ
 - CSR, SSR, Isomorphic
@@ -48,7 +51,7 @@
 - Open Source
 - Isomorphic applications
 - Functional programming, especially in:
-  - JS
+  - JS & TS
   - Elm
   - F#, Fable
   - Reason, Ocaml
