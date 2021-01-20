@@ -43,15 +43,16 @@
 - CSR, SSR, Isomorphic
 
 ### Interests ❤️
-- NoSQL
-- JavaScript
+- JS & TS
+- Databases
 - Open Source
 - Isomorphic applications
 - Functional programming, especially in:
-  - JS & TS
+  - JS
+  - Elm
   - F#, Fable
   - Reason, Ocaml
-  - Elm, PureScript, Haskell
+  - Haskell, PureScript
 
 ### Github stats 📊
 ![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=on3dd&count_private=true)
