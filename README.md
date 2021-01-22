@@ -18,11 +18,13 @@
 #### Front-end
 - Vue | Nuxt.js
 - React | React Native | Next.js
-- Styled-components
-- State management tools:
+- CSS-in-JS:
+  - Emotion
+  - Styled components
+- State management:
   - Vuex
-  - Redux
   - Mobx
+  - Redux
 #### Back-end
 - Node.js
 - Express | Koa | Nest
