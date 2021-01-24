@@ -60,6 +60,6 @@
   - Haskell, PureScript
 
 ### Github stats 📊
-![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=on3dd&count_private=true)
+![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=on3dd&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=on3dd&layout=compact)
