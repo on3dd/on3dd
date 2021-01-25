@@ -41,6 +41,10 @@
 - MongoDB
 - PostgreSQL
 
+#### Testing
+- Jest
+- React testing library
+
 #### Other
 - Docker
 - Websockets
