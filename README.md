@@ -25,6 +25,8 @@
   - Vuex
   - Mobx
   - Redux
+  - Reatom
+  
 #### Back-end
 - Node.js
 - Express | Koa | Nest
