@@ -5,9 +5,11 @@
 [![Codewars Badge](https://www.codewars.com/users/on3dd/badges/micro)](https://www.codewars.com/users/on3dd)
 
 ### About me 🤡
-👨‍💻 My name is Artyom, I'm a 20 y.o. full stack developer from Vladivostok, Russia. 
+👨‍💻 My name is Artyom, I'm a 20 y.o. full stack developer from Vladivostok, Russia
 
-🎓 Studying at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science".
+👔 Working in a b2b outsourcing company as a front-end developer on a React + TypeScript stack
+
+🎓 Studying at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science"
 
 ### Technology stack 🔥
 #### Languages
@@ -56,14 +58,13 @@
 ### Interests ❤️
 - JS & TS
 - Databases
-- Open Source
 - Isomorphic applications
 - Functional programming, especially in:
   - JS & TS
   - Elm
-  - F#, Fable
-  - Reason, Ocaml
   - Haskell, PureScript
+  - F#, Ocaml, ReasonML
+
 
 ### Github stats 📊
 ![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=on3dd&count_private=true&show_icons=true)
