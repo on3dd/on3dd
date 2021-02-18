@@ -11,7 +11,7 @@
 
 🎓 Studying at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science"
 
-### Technology stack 🔥
+### Skills 🔥
 #### Languages
 - JavaScript
 - TypeScript
