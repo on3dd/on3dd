@@ -13,8 +13,7 @@
 
 ### Skills 🔥
 #### Languages
-- JavaScript
-- TypeScript
+- JS & TS
 - Golang (previously)
 
 #### Front-end
@@ -57,13 +56,12 @@
 
 ### Interests ❤️
 - JS & TS
-- Databases
-- Isomorphic applications
+- SSR, PWA
+- Isomorphic apps
 - Functional programming, especially in:
-  - JS & TS
-  - Elm
-  - Haskell, PureScript
-  - F#, Ocaml, ReasonML
+  - TypeScript
+  - Haskell, Elm, PureScript
+  - Ocaml, F#, ReasonML
 
 
 ### Github stats 📊
