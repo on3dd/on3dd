@@ -32,10 +32,10 @@
 
 ### Interests ❤️
 - TypeScript
-- React ecosystem
+- React & React Native
 - Functional programming, especially in:
   - TypeScript
-  - Ocaml, ReasonML
+  - ReasonML, Ocaml
   - Elm, Haskell, PureScript
  
 
