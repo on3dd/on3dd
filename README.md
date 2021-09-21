@@ -5,7 +5,7 @@
 [![Codewars Badge](https://www.codewars.com/users/on3dd/badges/micro)](https://www.codewars.com/users/on3dd)
 
 ### About me 🤡
-👨‍💻 My name is Artyom, I'm a 20 y.o. full stack developer from Vladivostok, Russia
+👨‍💻 My name is Artyom, I'm a 21 y.o. full stack developer from Vladivostok, Russia
 
 👔 Working in a b2b outsourcing company as a front-end developer on a React + TypeScript stack
 
