@@ -35,6 +35,7 @@
 - React & React Native
 - Functional programming, especially in:
   - TypeScript
+  - Elixir, Erlang
   - ReasonML, Ocaml
   - Elm, Haskell, PureScript
  
