@@ -37,13 +37,16 @@
 
 
 ### Interests ❤️
-- TypeScript
-- React & React Native
+- React, React Native
+- TypeScript, AssemblyScript
+- Elixir, Erlang, OTP
 - Functional programming, especially in:
   - TypeScript
   - Elixir, Erlang
   - ReasonML, Ocaml
-  - Elm, Haskell, PureScript
+  - Elm
+  - Haskell, PureScript
+  - Rust?..
  
 
 
