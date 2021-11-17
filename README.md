@@ -41,11 +41,8 @@
 - TypeScript, AssemblyScript
 - Elixir, Erlang, OTP
 - Functional programming, especially in:
-  - TypeScript
   - Elixir, Erlang
-  - Elm
-  - Haskell, PureScript
-  - ReasonML, Ocaml
+  - Elm, Haskell, PureScript
   - Rust?..
  
 
