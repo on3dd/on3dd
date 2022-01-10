@@ -9,7 +9,7 @@
 
 👔 Working in a b2b outsourcing company as a front-end developer on a React + TypeScript stack
 
-🎓 Studying at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science"
+🎓 Uncompleted higher education at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science"
 
 ### Skills 🔥
 #### Languages
