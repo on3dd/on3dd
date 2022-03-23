@@ -7,9 +7,9 @@
 ### About me 🤡
 👨‍💻 My name is Artyom, I'm a 21 y.o. full stack developer from Vladivostok, Russia
 
-👔 Working in a b2b outsourcing company as a front-end developer on a React + TypeScript stack
+👔 Work in a international b2b company as front-end developer using Angular, React and TypeScript
 
-🎓 Uncompleted higher education at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science"
+🎓 Have an uncompleted higher education at the Far Eastern Federal University under the bachelor's program "Mathematics and Computer Science"
 
 ### Skills 🔥
 #### Languages
@@ -18,10 +18,11 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
-#### Frameworks
+#### Frameworks & Libraries 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
@@ -30,16 +31,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Other
+#### Other stuff
 <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/> 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 
 ### Interests ❤️
-- React, React Native
-- TypeScript, AssemblyScript
-- Elixir, Erlang, OTP
+- TypeScript
+- Software architecture
+- Object Oriented Programming
 - Functional programming, especially in:
   - Elixir, Erlang
   - Elm, Haskell, PureScript
