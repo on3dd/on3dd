@@ -14,6 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 #### Frameworks & Libraries 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,11 +37,10 @@
 
 ### Interests ❤️
 - TypeScript
-- Software architecture
-- Object Oriented Programming
+- Software architecture & patterns
 - Functional programming, especially in:
-  - Elixir, Erlang
   - Elm, Haskell, PureScript
+  - Elixir, Erlang
   - Rust?..
  
 
