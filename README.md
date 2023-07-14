@@ -26,10 +26,8 @@
 
 ### Interests ❤️
 - TypeScript
+- Functional programming
 - Software architecture & patterns
-- Functional programming, especially in:
-  - Elm, Haskell, PureScript
-  - Elixir, Erlang
 
 
 ### Github stats 📊
