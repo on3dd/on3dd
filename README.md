@@ -2,10 +2,9 @@
 [![Codewars Badge](https://www.codewars.com/users/on3dd/badges/micro)](https://www.codewars.com/users/on3dd)
 
 ### About me 🧌
-👨‍💻 My name is Artyom, I'm a 23 y.o. full stack developer from Vladivostok, Russia
+👨‍💻 My name is Artyom, I'm a front-end developer from Vladivostok, Russia
 
-👔 Work in a international b2b company as front-end developer using Angular, React and TypeScript
-
+👔 Currently working in an international company as a frontend developer using Angular, React and TypeScript
 
 ### Skills 🔥
 #### Languages
@@ -23,13 +22,12 @@
 #### Other stuff
 <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/> 
 
-
 ### Interests ❤️
 - TypeScript
 - Angular & RxJS
+- Node.js & Nest.js
 - Functional programming
 - Software architecture & patterns
-
 
 ### Github stats 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=on3dd&layout=compact&hide=html,css&langs_count=10)
